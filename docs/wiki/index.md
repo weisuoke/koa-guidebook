@@ -4,8 +4,6 @@ nav:
   order: 99
 title: Wiki
 order: 1
-
-
 ---
 
 # Awesome Koa
@@ -43,6 +41,8 @@ order: 1
 - [dominhhai/koa-busboy](https://github.com/dominhhai/koa-busboy): Upload files with Busboy
 - [imingyu/koa-vue-view](https://github.com/imingyu/koa-vue-view): A Koa view engine which renders Vue components on server.
 - [keenwon/subdomain](https://github.com/keenwon/koa-subdomain): Simple and lightweight Koa middleware to handle multilevel and wildcard subdomains
+- [tunnckoCore/koa-ip-filter](https://github.com/tunnckoCore/koa-ip-filter): koa middleware to filter request IPs or custom ID with glob patterns, array, string, regexp or matcher function. Support custom 403 Forbidden message and custom ID.
+- [JefferyLiang/koa-2-acl](https://github.com/JefferyLiang/koa-2-acl): ACL middleware of koa 2
 
 ### Tools
 
