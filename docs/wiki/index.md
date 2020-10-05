@@ -41,7 +41,8 @@ order: 1
 - [koajs/mock](https://github.com/koajs/mock): Simple web page mock middleware
 - [ishen7/koa2-connect-history-api-fallback](https://github.com/ishen7/koa2-connect-history-api-fallback): Fallback to index.html for applications that are using the HTML 5 history API
 - [dominhhai/koa-busboy](https://github.com/dominhhai/koa-busboy): Upload files with Busboy
-- 
+- [imingyu/koa-vue-view](https://github.com/imingyu/koa-vue-view): A Koa view engine which renders Vue components on server.
+- [keenwon/subdomain](https://github.com/keenwon/koa-subdomain): Simple and lightweight Koa middleware to handle multilevel and wildcard subdomains
 
 ### Tools
 
